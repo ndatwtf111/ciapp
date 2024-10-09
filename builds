@@ -3,7 +3,7 @@
 
 define('LATEST_RELEASE', '^4.0');
 define('GITHUB_URL', 'https://github.com/codeigniter4/codeigniter4');
-test rebase
+test rebases
 /*
  * --------------------------------------------------------------------
  * Stability Toggle
